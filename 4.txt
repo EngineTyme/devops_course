@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 last file created
+=======
+Test File for git cloning
+>>>>>>> a1910bbbf943ddc1fbea5e75b2634b2b29a61790
